@@ -64,4 +64,4 @@ Interactive filters are included for:
 
 ## Dashboard Preview
 
-![Insurance Dashboard](Dashboard.png)
+![Insurance Dashboard](Dashboard.png.png)
